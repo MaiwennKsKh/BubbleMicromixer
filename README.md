@@ -5,7 +5,7 @@ A simple, yet highly versatile, bubble-based micromixer module fabricated with a
 
 In this repository you will find all files linked to our publication "Versatile hybrid acoustic micromixer with demonstration of circulating cell-free DNA extraction from sub-ml plasma samples" Published in Lab On Chip https://pubs.rsc.org/en/content/articlelanding/2020/lc/c9lc01130g
 
-2D files to laser cut a microfluidic 250uL chip (inlets, channels, chamber). For laser cutting and thermal and solvent assisted bonding, please consult: https://link.springer.com/article/10.1007/s10404-016-1823-1 
+2D files to laser cut a microfluidic 250uL chip (inlets, channels, chamber), and the piezo holder. For laser cutting and thermal and solvent assisted bonding, please consult: https://link.springer.com/article/10.1007/s10404-016-1823-1 
 and our companion Youtube video: https://www.youtube.com/watch?v=JzdkNnLQzMU
 
 3D files to 3D print
